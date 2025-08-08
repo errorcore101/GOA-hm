@@ -1,0 +1,1 @@
+print("GOA is frickin' awesome " * 1000)
